@@ -1,2 +1,2 @@
 # AndroIot
-Mini Project 6th Sem
+Mini Project 6th Sem welcome fellas!
